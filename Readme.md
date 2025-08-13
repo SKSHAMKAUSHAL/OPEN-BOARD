@@ -44,7 +44,7 @@ Make sure you have the following installed:
 
  3. **Start the server**
     ```bash
-    Start the server
+    npm start
 
 4. **Open your browser and go to:**
     ```bash
